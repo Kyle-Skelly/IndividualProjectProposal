@@ -6,7 +6,7 @@ Pokedex bot for Reddit!
 The project that I will be implementing this semester is a reddit bot that can be be called via reddit comment. The bot will be able to provide a various amount of stats that can be fetched from the pokemon API (https://pokeapi.co/). The stats that are fetched will then be replied to the comment that requested the pokemon's stats. There is a huge amount of Pokemon currently (894) and will only continue to go up. With the sheer amount of stats and information it can be really hard to keep track of who does what in the game. This will be able to help people among various subreddits be able to access the information without having to travel to another site. 
 
 
-![Use Case Image](PokeDexBot.png)
+![Use Case Image](PokedexBot.png)
 
 ## Project Relevance
 
