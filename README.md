@@ -1,10 +1,12 @@
-# Reddit NBA StatBot
+# Reddit Pokedex Bot
+Pokedex bot for Reddit! 
 
 ## Project Abstract
 
-The project that I will be implementing this semester is a reddit bot that can be be called via reddit comment. The bot will be able to provide a various amount of stats that can be fetched from an NBA API (https://www.isportsapi.com/products/basketball.html). The stats that are fetched will then be replied to the comment that requested the player's stats. While discussing different players and debating, I find that a bot that can easily be called will help further discussions by providing quick access to statistics without having to access a different site.
+The project that I will be implementing this semester is a reddit bot that can be be called via reddit comment. The bot will be able to provide a various amount of stats that can be fetched from the pokemon API (https://pokeapi.co/). The stats that are fetched will then be replied to the comment that requested the pokemon's stats. There is a huge amount of Pokemon currently (894) and will only continue to go up. With the sheer amount of stats and information it can be really hard to keep track of who does what in the game. This will be able to help people among various subreddits be able to access the information without having to travel to another site. 
 
-![Use Case Image](nbabot.png)
+
+![Use Case Image](PokeDexBot.png)
 
 ## Project Relevance
 
@@ -17,6 +19,6 @@ Since this is not an open source project, this will be built from the ground up.
 ## Required Resources
 
 - Python
-- iSports API
+- PokeAPI
 - Reddit API
 
